@@ -1,0 +1,2 @@
+ssid = "ri"
+password = "."
